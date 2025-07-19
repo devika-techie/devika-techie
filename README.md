@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devika</h1>
 <h3 align="center">Aspiring Full Stack Developer | Data Analytics Enthusiast | Based in India</h3>
-<img  align="center" width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/2f6d1c31-d77f-4fd8-acf0-76ddc803f10f" />
+<img  align="right" width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/2f6d1c31-d77f-4fd8-acf0-76ddc803f10f" />
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devika-techie&label=Profile%20views&color=0e75b6&style=flat" alt="devika-techie" /> </p>
