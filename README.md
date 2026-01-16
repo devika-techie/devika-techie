@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devika</h1>
-<h3 align="center">Aspiring Full Stack Developer | Data Analytics Enthusiast | Based in India</h3>
+<h3 align="center">Java Developer | Core Java • OOP • JDBC • SQL • Spring • Spring Boot</h3>
 <img  align="center" width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/2f6d1c31-d77f-4fd8-acf0-76ddc803f10f" />
 
 
